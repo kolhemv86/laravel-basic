@@ -1,0 +1,1492 @@
+2017-10-25 09:38:13,"ketulpatel@webmynesystems.com","ketulpatel@webmynesystems.com","Order Confirmfirmation Note for Due Balance","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 246</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>rajasthan</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://ws-srv-php/projects/kitabain.com/uploads/images/book/3_thumb.jpg" width="50" height="75"></td>
+                        <td>Five Point Someone</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 1,220.00</td>
+                    </tr>
+                            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://ws-srv-php/projects/kitabain.com/uploads/images/book/3_thumb.jpg" width="50" height="75"></td>
+                        <td>Five Point Someone</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 1,220.00</td>
+                    </tr>
+                            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://ws-srv-php/projects/kitabain.com/uploads/images/book/3_thumb.jpg" width="50" height="75"></td>
+                        <td>Five Point Someone</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 1,220.00</td>
+                    </tr>
+                                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 3,660.00</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 3,660.00</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html><br /><b>Buyer Detail</b><br />User Email :- siddhraj@yopmail.com<br />Name  :- manoj khole<br />Address1 :- baroda<br />Address2 :- braoda<br />City :- vadodara<br />Country :- India<br />Zip Code :- <br /><br /><br /><b>Seller Detail</b><br />User Email :- ketulpatel@webmynesystems.com<br />Name  :- ketul patel<br />Address1 :- kalol<br />Address2 :- kalol<br />City :- vadodara<br />Country :- India<br />Zip Code :- <br />Book Name :- Five Point Someone[77]<br />Book Condition :- Acceptable<br /><br /><br /><b>Seller Detail</b><br />User Email :- siddhraj@yopmail.com<br />Name  :- manoj khole<br />Address1 :- baroda<br />Address2 :- braoda<br />City :- vadodara<br />Country :- India<br />Zip Code :- <br />Book Name :- Five Point Someone[79]<br />Book Condition :- Very Good<br /><br /><br /><b>Seller Detail</b><br />User Email :- siddhraj@yopmail.com<br />Name  :- manoj khole<br />Address1 :- baroda<br />Address2 :- braoda<br />City :- vadodara<br />Country :- India<br />Zip Code :- <br />Book Name :- Five Point Someone[80]<br />Book Condition :- Very Good<br /><br />"
+2017-10-25 09:38:17,"ketulpatel@webmynesystems.com","siddhraj@yopmail.com","Order Confirmation Detail, Please Review","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 246</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>rajasthan</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://ws-srv-php/projects/kitabain.com/uploads/images/book/3_thumb.jpg" width="50" height="75"></td>
+                        <td>Five Point Someone</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 1,220.00</td>
+                    </tr>
+                            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://ws-srv-php/projects/kitabain.com/uploads/images/book/3_thumb.jpg" width="50" height="75"></td>
+                        <td>Five Point Someone</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 1,220.00</td>
+                    </tr>
+                            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://ws-srv-php/projects/kitabain.com/uploads/images/book/3_thumb.jpg" width="50" height="75"></td>
+                        <td>Five Point Someone</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 1,220.00</td>
+                    </tr>
+                                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 3,660.00</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 3,660.00</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html>"
+2017-10-25 09:57:35,"info@kitabain.com","ketulpatel@webmynesystems.com","Transaction Made Successfull","Dear Customer,
+<br><br>
+Your Account has been Credited with the Amount Rs1200.
+<br><br>
+
+Net Balance After the Transaction : Rs4770.02
+<br><br>
+
+Thanking You,<br>
+Kitabain.com"
+2017-10-25 09:57:38,"info@kitabain.com","ketulpatel@webmynesystems.com","Book Recieved In Proper Condition","Dear ketul patel,<br>
+<br /><br />
+The book has been received in good condition and has been accepted, and your account as been credited.
+
+<br /><br />
+Thanking You,<br />
+Kitabain.com"
+2017-10-25 09:57:45,"info@kitabain.com","siddhraj@yopmail.com","Transaction Made Successfull","Dear Customer,
+<br><br>
+Your Account has been Credited with the Amount Rs1200.
+<br><br>
+
+Net Balance After the Transaction : Rs-5343.75
+<br><br>
+
+Thanking You,<br>
+Kitabain.com"
+2017-10-25 09:57:49,"info@kitabain.com","siddhraj@yopmail.com","Book Recieved In Proper Condition","Dear manoj khole,<br>
+<br /><br />
+The book has been received in good condition and has been accepted, and your account as been credited.
+
+<br /><br />
+Thanking You,<br />
+Kitabain.com"
+2017-10-25 09:57:56,"info@kitabain.com","siddhraj@yopmail.com","Transaction Made Successfull","Dear Customer,
+<br><br>
+Your Account has been Credited with the Amount Rs1200.
+<br><br>
+
+Net Balance After the Transaction : Rs-4143.75
+<br><br>
+
+Thanking You,<br>
+Kitabain.com"
+2017-10-25 09:57:59,"info@kitabain.com","siddhraj@yopmail.com","Book Recieved In Proper Condition","Dear manoj khole,<br>
+<br /><br />
+The book has been received in good condition and has been accepted, and your account as been credited.
+
+<br /><br />
+Thanking You,<br />
+Kitabain.com"
+2017-10-25 09:58:26,"info@kitabain.com","siddhraj@yopmail.com","Order Dilivered To Buyer","Dear manoj khole,<br>
+
+Your Order has been delivered to your shipping address.<br />
+
+Please Logged in to <a href="http://ws-srv-php/projects/kitabain.com">Kitabain.com</a> and check your account.
+
+<br />
+Thanking You,<br />
+Kitabain.com"
+2017-10-31 10:32:56,"info@kitabain.com","siddhraj@yopmail.com","Transaction Made Successfull","Dear Customer,
+<br><br>
+Your Account has been Debited with the Amount Rs39.99.
+<br><br>
+
+Net Balance After the Transaction : Rs-4183.74
+<br><br>
+
+Thanking You,<br>
+Kitabain.com"
+2017-10-31 10:32:57,"info@kitabain.com","ketulpatel@webmynesystems.com","Order Confirmfirmation Note for Due Balance","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 249</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html><br /><b>Buyer Detail</b><br />User Email :- siddhraj@yopmail.com<br />Name  :- manoj khole<br />Address1 :- baroda<br />Address2 :- braoda<br />City :- vadodara<br />Country :- India<br /><br /><br /><b>Seller Detail</b><br />User Email :- ravipatel1890@gmail.com<br />Name  :- siddhraj raulji<br />Address1 :- 71 Ranchhodkrupa Society
+Andada<br />Address2 :- 71 Ranchhodkrupa Society
+Andada<br />City :- vadodara<br />Country :- India<br />Book Name :- Las Vegas[14]<br />Book Condition :- LN<br /><br />"
+2017-10-31 10:32:58,"info@kitabain.com","siddhraj@yopmail.com","Order Confirmation Detail, Please Review","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 249</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://demo.webmynehost.com/core/kitabain.com/uploads/images/book/4_thumb.jpg" width="50" height="75"></td>
+                        <td>Las Vegas</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+                    </tr>
+                                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html>"
+2017-10-31 10:36:22,"info@kitabain.com","siddhraj@yopmail.com","Transaction Made Successfull","Dear Customer,
+<br><br>
+Your Account has been Debited with the Amount Rs39.99.
+<br><br>
+
+Net Balance After the Transaction : Rs-4223.73
+<br><br>
+
+Thanking You,<br>
+Kitabain.com"
+2017-10-31 10:36:23,"info@kitabain.com","ketulpatel@webmynesystems.com","Order Confirmfirmation Note for Due Balance","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 250</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html><br /><b>Buyer Detail</b><br />User Email :- siddhraj@yopmail.com<br />Name  :- manoj khole<br />Address1 :- baroda<br />Address2 :- braoda<br />City :- vadodara<br />Country :- India<br /><br /><br /><b>Seller Detail</b><br />User Email :- ravipatel1890@gmail.com<br />Name  :- siddhraj raulji<br />Address1 :- 71 Ranchhodkrupa Society
+Andada<br />Address2 :- 71 Ranchhodkrupa Society
+Andada<br />City :- vadodara<br />Country :- India<br />Book Name :- Las Vegas[14]<br />Book Condition :- LN<br /><br />"
+2017-10-31 10:36:24,"info@kitabain.com","siddhraj@yopmail.com","Order Confirmation Detail, Please Review","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 250</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://demo.webmynehost.com/core/kitabain.com/uploads/images/book/4_thumb.jpg" width="50" height="75"></td>
+                        <td>Las Vegas</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+                    </tr>
+                                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 39.99</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html>"
+2017-10-31 10:44:21,"info@kitabain.com","siddhraj@yopmail.com","Transaction Made Successfull","Dear Customer,
+<br><br>
+Your Account has been Debited with the Amount Rs130.
+<br><br>
+
+Net Balance After the Transaction : Rs-4353.73
+<br><br>
+
+Thanking You,<br>
+Kitabain.com"
+2017-10-31 10:44:22,"info@kitabain.com","ketulpatel@webmynesystems.com","Order Confirmfirmation Note for Due Balance","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 251</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 130.00</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 130.00</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html><br /><b>Buyer Detail</b><br />User Email :- siddhraj@yopmail.com<br />Name  :- manoj khole<br />Address1 :- baroda<br />Address2 :- braoda<br />City :- vadodara<br />Country :- India<br /><br /><br /><b>Seller Detail</b><br />User Email :- ravipatel1890@gmail.com<br />Name  :- siddhraj raulji<br />Address1 :- 71 Ranchhodkrupa Society
+Andada<br />Address2 :- 71 Ranchhodkrupa Society
+Andada<br />City :- vadodara<br />Country :- India<br />Book Name :- Five Point Someone[4]<br />Book Condition :- BN<br /><br />"
+2017-10-31 10:44:23,"info@kitabain.com","siddhraj@yopmail.com","Order Confirmation Detail, Please Review","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 251</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://demo.webmynehost.com/core/kitabain.com/uploads/images/book/4_thumb.jpg" width="50" height="75"></td>
+                        <td>Five Point Someone</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 130.00</td>
+                    </tr>
+                                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 130.00</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 130.00</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html>"
+2017-10-31 10:51:02,"info@kitabain.com","siddhraj@yopmail.com","Transaction Made Successfull","Dear Customer,
+<br><br>
+Your Account has been Debited with the Amount Rs40.
+<br><br>
+
+Net Balance After the Transaction : Rs-4393.73
+<br><br>
+
+Thanking You,<br>
+Kitabain.com"
+2017-10-31 10:51:03,"info@kitabain.com","ketulpatel@webmynesystems.com","Order Confirmfirmation Note for Due Balance","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 252</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 40.00</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 40.00</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html><br /><b>Buyer Detail</b><br />User Email :- siddhraj@yopmail.com<br />Name  :- manoj khole<br />Address1 :- baroda<br />Address2 :- braoda<br />City :- vadodara<br />Country :- India<br /><br /><br /><b>Seller Detail</b><br />User Email :- ravipatel1890@gmail.com<br />Name  :- siddhraj raulji<br />Address1 :- 71 Ranchhodkrupa Society
+Andada<br />Address2 :- 71 Ranchhodkrupa Society
+Andada<br />City :- vadodara<br />Country :- India<br />Book Name :- One Night at the Call Center
+[38]<br />Book Condition :- LN<br /><br />"
+2017-10-31 10:51:04,"info@kitabain.com","siddhraj@yopmail.com","Order Confirmation Detail, Please Review","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 252</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://demo.webmynehost.com/core/kitabain.com/uploads/images/book/37_thumb.jpg" width="50" height="75"></td>
+                        <td>One Night at the Call Center
+</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 40.00</td>
+                    </tr>
+                                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 40.00</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 40.00</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html>"
+2017-10-31 10:53:13,"info@kitabain.com","siddhraj@yopmail.com","Transaction Made Successfull","Dear Customer,
+<br><br>
+Your Account has been Debited with the Amount Rs2020.
+<br><br>
+
+Net Balance After the Transaction : Rs-6413.73
+<br><br>
+
+Thanking You,<br>
+Kitabain.com"
+2017-10-31 10:53:44,"info@kitabain.com","siddhraj@yopmail.com","Transaction Made Successfull","Dear Customer,
+<br><br>
+Your Account has been Debited with the Amount Rs2020.
+<br><br>
+
+Net Balance After the Transaction : Rs-8433.73
+<br><br>
+
+Thanking You,<br>
+Kitabain.com"
+2017-10-31 10:53:45,"info@kitabain.com","ketulpatel@webmynesystems.com","Order Confirmfirmation Note for Due Balance","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 254</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 2,020.00</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 2,020.00</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html><br /><b>Buyer Detail</b><br />User Email :- siddhraj@yopmail.com<br />Name  :- manoj khole<br />Address1 :- baroda<br />Address2 :- braoda<br />City :- vadodara<br />Country :- India<br /><br /><br /><b>Seller Detail</b><br />User Email :- ravipatel1890@gmail.com<br />Name  :- siddhraj raulji<br />Address1 :- 71 Ranchhodkrupa Society
+Andada<br />Address2 :- 71 Ranchhodkrupa Society
+Andada<br />City :- vadodara<br />Country :- India<br />Book Name :- autho 2[36]<br />Book Condition :- VG<br /><br />"
+2017-10-31 10:53:46,"info@kitabain.com","siddhraj@yopmail.com","Order Confirmation Detail, Please Review","<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/bootstrap.css" rel="stylesheet" type="text/css">
+   
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="http://ws-srv-php/projects/kitabain_v2/templates/template_new/css/responsive.css" rel="stylesheet" type="text/css">
+
+    
+  </head>
+<body> 
+
+<section class="innercontent mainrow">
+    <div class="container-fluid">
+        <div class="row mainrow">
+      <div class="col-lg-12" >
+					  <table width="70%" style="margin-left:50px; margin-bottom:20px;" >
+				  <tr style="margin:10px;" >
+					<td colspan="2"><h1 style="    font-size: 48px;    color: #3d8b88;    font-weight: 100;">Order Detail: # 254</h1></td>
+				  </tr>
+				  <tr style="margin:10px;" >
+					<td colspan="2">&nbsp;</td>
+				  </tr>
+				  <tr  >
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;">Shipping Information</td>
+					<td style="font-size: 24px;    color: #1b9b76;    font-weight: bold;" >Billing Information</td>
+				  </tr>
+				  <tr  style="margin:10px;" >
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td> manoj kolhe</td>
+					<td>manoj khole</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>Ankleshwar</td>
+					<td>baroda</td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;" >
+					<td>Ankleshwar</td>
+					<td>braoda </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>vadodara - </td>
+					<td>vadodara - </td>
+				  </tr>
+				  <tr  style="margin:10px 0 0 10px;">
+					<td>gujarat</td>
+					<td>gujarat </td>
+				  </tr>
+				  <tr style="margin:10px 0 20px 10px;" >
+					<td> 9724470522</td>
+					<td>9724470522 </td>
+				  </tr>
+				 
+				</table>
+
+
+    	            <table class="table table-condensed table-hover formdiv" style="margin-left:50px; width:70%;background-color: #f5f5f5;margin-top:10px ">
+              <tbody><tr style="margin:10px 0 0 10px;" >
+              	<th style="color: #3d8b88;">Book Image</th>
+                <th style="color: #3d8b88;" >Book Title</th>
+                <th style="color: #3d8b88;" >Quantity</th>
+                <th style="color: #3d8b88;" >Status</th>
+                <th style="color: #3d8b88;margin:10px 0 0 50px;" class="text-center">Price</th>
+              </tr>
+  				            
+                    <tr style="border:2px solid #c9c9c9; margin:10px 0 0 10px;">
+                        <td><img src="http://demo.webmynehost.com/core/kitabain.com/uploads/images/book/36_thumb.jpg" width="50" height="75"></td>
+                        <td>autho 2</td>
+                        <td>1</td>
+                        <td>Pending</td>
+                        <td class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 2,020.00</td>
+                    </tr>
+                                       </tbody></table>
+        
+              <table class="table table-condensed table-hover formdiv totaltbl" style="margin-left:50px; width:70%;background-color: #f5f5f5;">    
+             	 <tbody><tr style="margin:10px 0 0 10px;" >
+                    <td width="60%" colspan="3">&nbsp;</td>
+                      <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >SubTotal</strong></td>
+                      <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 2,020.00</td>
+                  </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Order Tax</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Shipping Cost</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 0.00</td>
+           	   </tr>
+             	 <tr style="margin:10px 0 0 10px;" >
+             	   <td width="60%" colspan="3">&nbsp;</td>
+             	   <td width="20%"><strong class="tlabel" style="color: #3d8b88;" >Total</strong></td>
+             	   <td width="20%" class="text-right tlast" style="margin:10px 10px 0 10px;">Rs 2,020.00</td>
+           	   </tr>
+            </tbody></table>
+        
+
+    	    </div>
+      </div>
+      	 
+    </div>
+</section>
+</body>
+</html>"

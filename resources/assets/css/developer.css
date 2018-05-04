@@ -1,0 +1,78 @@
+thead{
+	    background: #215979;
+    color: #fff;
+}
+
+
+.tablehead{
+    background: #587a8e !important;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 800;
+    margin: auto;
+    padding: 8px;
+        border: 1px solid #f4f4f4;
+}
+
+
+.trcolor{
+	    background: #ccc !important;
+	    margin: auto;
+	    font-size: 12px;
+	        border: 1px solid #f4f4f4;
+	    padding: 8px;
+}
+
+
+
+.modal-header {
+    border-bottom-color: #f4f4f4;
+    background: #3c8dbc;
+    color: #fff;
+}
+
+
+.modal-header .close {
+    margin-top: -2px;
+    color: #fff;
+    opacity: 1;
+}
+
+
+.totaltrcolor{
+	 background: #adadad !important;
+    margin: auto;
+    font-size: 18px;
+    border: 1px solid #f4f4f4;
+    padding: 8px;
+    font-weight: 800;
+}
+
+
+.modal-body {
+  
+    height: 450px;
+    
+    overflow-x: hidden;
+}
+
+.error {
+	
+	color:red;
+}
+
+/* For Firefox */
+input[type='number'] {
+    -moz-appearance:textfield;
+}
+
+/* Webkit browsers like Safari and Chrome */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+[class^='select2'] {
+  border-radius: 0px !important;
+}

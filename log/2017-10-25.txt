@@ -1,0 +1,10 @@
+2017-10-25 06:12:10-->192.168.1.138-->{"_token":"s76kDqZPwNydvMh0irzA\/l8pkX9suKUByVxllk8nU3k=","api_key":"23045ee1bb0c965ed5748d8d4abaac2e","method":"placeOrder","request":[]}
+2017-10-25 06:12:20-->192.168.1.138-->{"_token":"s76kDqZPwNydvMh0irzA\/l8pkX9suKUByVxllk8nU3k=","api_key":"23045ee1bb0c965ed5748d8d4abaac2e","method":"placeOrder","request":{"payment_status":"confirm","orderdetail":[]}}
+{"errorMsg":["No book provided"],"status":"Fail"}
+2017-10-25 09:02:19-->192.168.1.138-->{"_token":"s76kDqZPwNydvMh0irzA\/l8pkX9suKUByVxllk8nU3k=","api_key":"23045ee1bb0c965ed5748d8d4abaac2e","method":"placeOrder","request":{"payment_status":"confirm","orderdetail":[]}}
+{"errorMsg":["No book provided"],"status":"Fail"}
+2017-10-25 09:03:09-->192.168.1.138-->{"_token":"s76kDqZPwNydvMh0irzA\/l8pkX9suKUByVxllk8nU3k=","api_key":"23045ee1bb0c965ed5748d8d4abaac2e","method":"placeOrder","request":{"payment_status":"confirm","orderdetail":[]}}
+{"errorMsg":["No book provided"],"status":"Fail"}
+2017-10-25 09:34:48-->192.168.1.138-->{"_token":"s76kDqZPwNydvMh0irzA\/l8pkX9suKUByVxllk8nU3k=","api_key":"23045ee1bb0c965ed5748d8d4abaac2e","method":"placeOrder","request":{"payment_status":"confirm","orderdetail":[{"bookid":77,"qty":1},{"bookid":79,"qty":1},{"bookid":80,"qty":1}]}}
+2017-10-25 09:38:05-->192.168.1.138-->{"_token":"s76kDqZPwNydvMh0irzA\/l8pkX9suKUByVxllk8nU3k=","api_key":"23045ee1bb0c965ed5748d8d4abaac2e","method":"placeOrder","request":{"payment_status":"confirm","orderdetail":[{"bookid":77,"qty":1},{"bookid":79,"qty":1},{"bookid":80,"qty":1}]}}
+{"status":"success","orderId":246,"orderSubTotal":3660,"shippingCost":0,"orderTax":0,"tax_rate":0,"orderTotal":3660}
